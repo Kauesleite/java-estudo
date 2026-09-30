@@ -35,9 +35,9 @@ Minha trilha de evolução contínua segue o seguinte pipeline:
 
 ### 📈 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauesleite&layout=compact&theme=vision-friendly-dark)
 
 ### 📫 Como me encontrar
 
-* [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-* [E-mail](mailto:seu-email@dominio.com)
+* [LinkedIn](https://www.linkedin.com/in/kauê-leite-171476221)
+* [E-mail](mailto:leitekaue@gmail.com)
